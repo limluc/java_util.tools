@@ -1,11 +1,11 @@
-package com.concisebox.util;
+package com.limluc.util.tools;
 
 import org.json.JSONObject;
 
 import java.io.IOException;
 import java.net.URL;
 
-import static com.concisebox.util.JSONUtils.toJsonObject;
+import static com.limluc.util.tools.JSONUtils.toJsonObject;
 import static org.apache.commons.io.FileUtils.readFileToString;
 import static org.apache.commons.io.FileUtils.toFile;
 

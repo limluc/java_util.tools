@@ -1,4 +1,4 @@
-package com.concisebox.util;
+package com.limluc.util.tools;
 
 import java.util.Arrays;
 import java.util.HashSet;

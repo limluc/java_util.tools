@@ -1,0 +1,18 @@
+{
+  "string": "test.json",
+  "object": {
+    "objectChild1": "child1",
+    "objectChild2": "child2"
+  },
+  "list": [
+    {
+      "listName": "one"
+    },
+    {
+      "listName": "two"
+    },
+    {
+      "listName": "two"
+    }
+  ]
+}
